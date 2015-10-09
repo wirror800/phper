@@ -24,3 +24,6 @@ C扩展开发的高性能Web框架phalcon、zephir作者。
 6、Vasily Zorin(kakserpom@Russia)  
 phpdaemon作者。  
 网站：http://daemon.io/
+
+7、阿里核心系统团队博客
+网站：http://csrd.aliapp.com/
